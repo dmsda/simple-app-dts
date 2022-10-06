@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/dmsda/simple-app-dts.git/static/js/main.e6c42e9c.js",
+    "static/js/787.7e5b7491.chunk.js": "/dmsda/simple-app-dts.git/static/js/787.7e5b7491.chunk.js",
+    "index.html": "/dmsda/simple-app-dts.git/index.html",
+    "main.e6c42e9c.js.map": "/dmsda/simple-app-dts.git/static/js/main.e6c42e9c.js.map",
+    "787.7e5b7491.chunk.js.map": "/dmsda/simple-app-dts.git/static/js/787.7e5b7491.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e6c42e9c.js"
+  ]
+}
